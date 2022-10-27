@@ -1,0 +1,12 @@
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.csprojAssemblyReference.cache
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.Form1.resources
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.FormDialog.resources
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.FormNastaveni.resources
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.Properties.Resources.resources
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.csproj.GenerateResource.cache
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.csproj.CoreCompileInputs.cache
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\bin\Debug\SifrovaciAplikace.exe.config
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\bin\Debug\SifrovaciAplikace.exe
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\bin\Debug\SifrovaciAplikace.pdb
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.exe
+D:\ROP_FINAL\SifrovaciAplikace\SifrovaciAplikace\obj\Debug\SifrovaciAplikace.pdb
